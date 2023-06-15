@@ -1,10 +1,11 @@
 import "./App.css";
+import Video from "./pages/video"
 
 function App() {
   return (
     <div className="App">
-      <div className="ola">
-        ola mundo
+      <div className="app__videos">
+        <Video />
       </div>
     </div>
   );

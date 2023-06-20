@@ -17,6 +17,10 @@ So far the following technologies were used:
 * JavaScript
 * React.JS
 
+**Back-end**
+* firebase database
+* js
+
 Link to the [journey]
 
 [journey]: https://ebaconline.com.br/webinars/prog-jornadafull-2023-03-28-29-30-31-04-01-02-03-04 "journey"
